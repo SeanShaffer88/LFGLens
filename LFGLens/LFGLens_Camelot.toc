@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: LFG Lens
+## Notes: Turns dungeon acronyms in chat into clickable links with full names, level ranges and ambiguity warnings, and collects dungeon posts into one small window. Forever's new dungeons collide with classic acronyms - LFG Lens untangles them.
+## Author: Sean Shaffer
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## Version: 0.1.0
+## SavedVariables: LFGLensDB
+## X-License: MIT
+## Category: Chat
+
+Core.lua
+Data.lua
+Chat.lua
+UI.lua
